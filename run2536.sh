@@ -6,7 +6,7 @@ sudo apt-get install -y curl unzip
 sudo apt install -y python3-pip unrar
 
 # Download RAR file from GitHub
-wget -O node.rar https://github.com/mohsenkhavari/test/raw/master/node2536.rar
+wget -O node2536.rar https://github.com/mohsenkhavari/test/raw/master/node2536.rar
 
 # Prompt for password in English (hidden input)
 read -s -p "Enter the password: " rar_pass
